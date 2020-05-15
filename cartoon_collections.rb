@@ -1,6 +1,7 @@
-def roll_call_dwarves(little_names)# code an argument here
-
-  # Your code here
+def roll_call_dwarves(dwarves)
+  
+  each_with_index 
+  
 end
 
 def summon_captain_planet# code an argument here
